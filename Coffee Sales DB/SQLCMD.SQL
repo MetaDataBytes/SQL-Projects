@@ -1,4 +1,4 @@
-:setvar path "<FOLDER_PATH>/"
+:setvar path "<FOLDER_PATH>\"
 :r $(path)"1 - COFFEE_SALES_DB.SQL"
 :r $(path)"2 - STAGING_TABLE.SQL"
 :r $(path)"3 - COUNTRY.SQL"
