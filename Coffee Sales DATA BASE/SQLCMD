@@ -1,0 +1,13 @@
+:setvar path "<FOLDER_PATH>\"
+:r $(path)"1 - COFFEE_SALES_DB".SQL
+:r $(path)"2 - STAGING_TABLE".SQL
+:r $(path)"3 - COUNTRY".SQL
+:r $(path)"4 - CITY".SQL
+:r $(path)"5 - CUSTOMER".SQL
+:r $(path)"6 - ORDER_DATE".SQL
+:r $(path)"7 - ORDER".SQL
+:r $(path)"8 - COFFEE_TYPE".SQL
+:r $(path)"9 - ROAST_TYPE".SQL
+:r $(path)"10 - PRODUCT".SQL
+:r $(path)"11 - ORDER_LINE".SQL
+:r $(path)"12 - CLEAN_UP".SQL
